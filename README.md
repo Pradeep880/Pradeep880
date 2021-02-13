@@ -5,6 +5,8 @@
 - 📫 You can reach me through by email:pkamurya112000@gmail.com
 
 <!---
-Pradeep880/Pradeep880 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+   Here,I am sharing by project with I have made in my Forntend journey .
+   This is Nelflix Clone which I made using react js,react_router
+   Go through by project and if you want to change any thing so you can suggest me.
+   I abverse your suggestion.
 --->
